@@ -28,10 +28,10 @@
 
 # Контакты
 <div>
-<a href="https://t.me/kokooooooooos" target="_blank" title="Написать в Telegram" rel="noopener noreferrer" color="transparent">
+<a href="https://t.me/kokooooooooos" target="_blank" title="Написать в Telegram" rel="noopener noreferrer" color="transparent" font-size="0">
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" title="telegram" alt="telegram" width="40" height="40"/>
 </a>&nbsp
-<a href="https://mail.yandex.ru/compose?mailto=annanekrasova22@yandex.ru" target="_blank" title="Написать на почту" rel="noopener noreferrer" color="transparent">
+<a href="https://mail.yandex.ru/compose?mailto=annanekrasova22@yandex.ru" target="_blank" title="Написать на почту" rel="noopener noreferrer" font-size="0" color="transparent">
   <img src="https://cdn.icon-icons.com/icons2/1233/PNG/512/1492718759-mail_83619.png" title="mail" alt="mail" width="40" height="40"/>
 </a>&nbsp
 </div>
